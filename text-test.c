@@ -1,6 +1,7 @@
 #include <string.h>
 #include <stdio.h>
 #include <tis_builtin.h>
+#include "tap.h"
 #include "text.h"
 
 int main(int argc, char *argv[]) {
